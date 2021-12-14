@@ -1,0 +1,1 @@
+# This project JSDOM to scrap the amazon website for prodcut details fetching
